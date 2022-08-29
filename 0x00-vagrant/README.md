@@ -1,1 +1,1 @@
-uname man
+How VMs work with Vagrant
